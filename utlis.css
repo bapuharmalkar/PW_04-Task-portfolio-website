@@ -1,0 +1,14 @@
+.purple{
+    color: rgb(176, 108, 239);
+}
+
+
+.text-grey {
+    color: grey;
+}
+.text-center{
+    text-align: center;
+    color: grey;
+    padding: 12px 0;
+}
+
